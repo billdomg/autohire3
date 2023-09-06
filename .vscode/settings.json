@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src/main/resources",
+        "src/main/java",
+        "dependencies"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "dependencies/**/*.jar"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
